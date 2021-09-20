@@ -4,7 +4,7 @@ Project for [Reinventing Healthy Spaces](https://www.hackster.io/contests/Health
 
 Credits are due on [the project](https://www.hackster.io/projects/104885)
 
-Copyright (c) 2012-2021 Scott Chacon and others
+Copyright (c) 2021 Anthony Sharonov
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
